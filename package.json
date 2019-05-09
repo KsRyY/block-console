@@ -1,0 +1,23 @@
+{
+  "name": "block-console",
+  "version": "1.0.0",
+  "description": "A util to block stderr&stdin stream to prevent them interrupt some long text out",
+  "keywords": [
+    "block",
+    "console"
+  ],
+  "author": "Andy Chen <andy200511@126.com>",
+  "homepage": "https://github.com/kry-org/potato-console/tree/master/packages/block-console#readme",
+  "license": "MIT",
+  "main": "block-console.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kry-org/potato-console.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/kry-org/potato-console/issues"
+  }
+}
